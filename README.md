@@ -8,6 +8,12 @@ While successful, they want to always be one step ahead of fraudsters and have t
 
 Link to the kaggle competition [https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection)
 
+## Contents overview
+
+Here is an overview of the content in this notebook.
+
+![content](https://raw.githubusercontent.com/181192/DAT158ML-Oblig02/master/pictures/content.png)
+
 ## Before browsing this Jupyter Notebook
 
 When browsing through this notebook I recommend using the toc2 extension for a table of content and
